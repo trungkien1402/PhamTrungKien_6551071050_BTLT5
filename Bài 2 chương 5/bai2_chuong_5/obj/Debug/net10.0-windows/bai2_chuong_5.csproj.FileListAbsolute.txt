@@ -1,0 +1,35 @@
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\bin\Debug\net10.0-windows\bai2_chuong_5.exe
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\bin\Debug\net10.0-windows\bai2_chuong_5.deps.json
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\bin\Debug\net10.0-windows\bai2_chuong_5.runtimeconfig.json
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\bin\Debug\net10.0-windows\bai2_chuong_5.dll
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\bin\Debug\net10.0-windows\bai2_chuong_5.pdb
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.Form1.resources
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.csproj.GenerateResource.cache
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.AssemblyInfoInputs.cache
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.AssemblyInfo.cs
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.dll
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\refint\bai2_chuong_5.dll
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.pdb
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.genruntimeconfig.cache
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\ref\bai2_chuong_5.dll
+C:\Users\Hoang Quan\source\repos\BTLT5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chu.1C00B517.Up2Date
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\bin\Debug\net10.0-windows\bai2_chuong_5.exe
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\bin\Debug\net10.0-windows\bai2_chuong_5.deps.json
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\bin\Debug\net10.0-windows\bai2_chuong_5.runtimeconfig.json
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\bin\Debug\net10.0-windows\bai2_chuong_5.dll
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\bin\Debug\net10.0-windows\bai2_chuong_5.pdb
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.Form1.resources
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.csproj.GenerateResource.cache
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.AssemblyInfoInputs.cache
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.AssemblyInfo.cs
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.csproj.CoreCompileInputs.cache
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.sourcelink.json
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.dll
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\refint\bai2_chuong_5.dll
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.pdb
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chuong_5.genruntimeconfig.cache
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\ref\bai2_chuong_5.dll
+D:\C#\BTLT5\Bài 2 chương 5\bai2_chuong_5\obj\Debug\net10.0-windows\bai2_chu.1C00B517.Up2Date
