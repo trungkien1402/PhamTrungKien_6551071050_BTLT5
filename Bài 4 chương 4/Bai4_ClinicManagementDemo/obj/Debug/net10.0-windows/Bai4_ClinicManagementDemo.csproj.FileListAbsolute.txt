@@ -1,0 +1,44 @@
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.exe
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.deps.json
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.runtimeconfig.json
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.dll
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.pdb
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.AssemblyInfo.cs
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.dll
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\refint\Bai4_ClinicManagementDemo.dll
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.pdb
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.genruntimeconfig.cache
+C:\Users\Lenovo\.gemini\antigravity\scratch\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\ref\Bai4_ClinicManagementDemo.dll
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.exe
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.deps.json
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.runtimeconfig.json
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.dll
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.pdb
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.dll
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\refint\Bai4_ClinicManagementDemo.dll
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.pdb
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\BTLT4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\ref\Bai4_ClinicManagementDemo.dll
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.exe
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.deps.json
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.runtimeconfig.json
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.dll
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\bin\Debug\net10.0-windows\Bai4_ClinicManagementDemo.pdb
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.AssemblyInfoInputs.cache
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.AssemblyInfo.cs
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.csproj.CoreCompileInputs.cache
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.sourcelink.json
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.dll
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\refint\Bai4_ClinicManagementDemo.dll
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.pdb
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_ClinicManagementDemo.genruntimeconfig.cache
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\ref\Bai4_ClinicManagementDemo.dll
+D:\C#\BTLT4\Bài 4 chương 4\Bai4_ClinicManagementDemo\obj\Debug\net10.0-windows\Bai4_Cli.93F739AA.Up2Date
